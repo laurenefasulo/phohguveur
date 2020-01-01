@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kahngeimoh.1ccmarathon.com/sitemap.xml
